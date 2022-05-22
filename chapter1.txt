@@ -2,3 +2,5 @@ this is chapter 1 and i am going to commit it.
 
 this is chapter 2 committed in master branch by lokeshpatel1155@gmail.com
 
+I lokesh patel , wrting this in here through github edit option to check git pull command
+
